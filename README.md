@@ -1,1 +1,1 @@
-#sumsung-riscv
+sumsung-riscv
